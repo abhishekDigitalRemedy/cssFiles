@@ -5,3 +5,6 @@
   transform: unset !important;
   width:100% !important;
 }
+.pinboard-header-module__favoriteButton{
+  display: none !important;
+}
