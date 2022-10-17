@@ -1,1 +1,3 @@
-
+.embed-module__tsEmbedWrapper .pinboard-module__pinboardPage .pinboard-header-module__pinboardHeader{
+  margin: unset !important;
+}
