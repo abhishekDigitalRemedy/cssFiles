@@ -1,3 +1,7 @@
 .embed-module__tsEmbedWrapper .pinboard-module__pinboardPage .pinboard-header-module__pinboardHeader{
   margin: unset !important;
 }
+.react-grid-item.pinboard-content-module__tile.cssTransforms.react-resizable-hide.react-resizable{
+  transform: unset !important;
+  width:100% !important;
+}
